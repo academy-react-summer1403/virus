@@ -1,6 +1,6 @@
 import React from "react";
 import { RouterProvider } from "react-router-dom";
-import {Router} from "../config/router/Public.Router.jsx";
+import {Router} from '../config/router/Public.Router';
 
 const App = () => {
     return(
